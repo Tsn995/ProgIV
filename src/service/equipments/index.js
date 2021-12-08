@@ -1,0 +1,1 @@
+export { getEquipments } from './getEquipments'
